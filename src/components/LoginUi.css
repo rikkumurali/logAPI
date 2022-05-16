@@ -1,0 +1,89 @@
+/* *{
+  text-align: center;
+} */
+
+.main {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #101a3f;
+  }
+
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 450px;
+    width: 45%;
+    background-image: url("https://wallpaperaccess.com/full/4893706.jpg");
+    background-repeat: no-repeat;
+    padding-top: 30px;
+  }
+
+  .imgs {
+      padding-top: 20px;
+      justify-content: center;
+      display: flex;
+    }
+
+  .container-image { 
+    background-color: rgb(217, 219, 226); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  .profile { 
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  }
+
+  input{
+      width: 300px;
+      height: 50px;  
+      border: none;
+      outline: none;    
+  }
+  
+ .email{
+      height: 25px;
+      width: 25px;
+      position: absolute;
+      padding: 14px 0 0 25px;
+  }
+
+  .name{
+      padding-left: 70px;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  .second-input{
+      padding-top: 20px;
+      text-align: center;
+  }
+
+  button{
+      width: 380px;
+      height: 50px;     
+      background-color: #c32424;
+      color: white;
+      font-size: 20px;
+      border: none;
+      font-size: medium;
+  }
+
+  .login-button{
+      padding-top: 25px;
+  }
+  
+  
